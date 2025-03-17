@@ -1,4 +1,3 @@
-
 .PHONY: all build test clean
 
 all: build test
